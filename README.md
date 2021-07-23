@@ -1,4 +1,4 @@
-# broken-go-land
+# debug-go-land
 
 This project is to help show and example to help debug a potential issue with GoLand.  It is intended to be used only as an example within the reported issue.  
 
