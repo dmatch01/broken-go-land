@@ -1,4 +1,4 @@
-module github.com/dmatch01/broken-go-land
+module github.com/dmatch01/debug-go-land
 
 go 1.16
 
